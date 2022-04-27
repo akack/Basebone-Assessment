@@ -119,6 +119,6 @@ export default Vue.extend({
         border: none;
     }
     .btn-custom:hover {
-        background-color: inherit;
+        background-color: white;
     }
 </style>
