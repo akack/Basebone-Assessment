@@ -1,0 +1,33 @@
+{
+  "name": "basebone-api",
+  "version": "1.0.0",
+  "description": "Basebone back-end assessment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "jest"
+  },
+  "author": "Akha Magaqana",
+  "license": "ISC",
+  "keywords": [
+    "NodeJs",
+    "MongoDb",
+    "ExpressJs",
+    "Mongoose"
+  ],
+  "dependencies": {
+    "chai": "^4.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mocha": "^9.2.2",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15",
+    "sinon": "^13.0.2",
+    "supertest": "^6.2.2"
+  },
+  "devDependencies": {
+    "jest": "^28.0.2",
+    "mocha-junit-reporter": "^2.0.2"
+  }
+}

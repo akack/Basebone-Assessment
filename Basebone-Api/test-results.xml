@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0190" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-04-27T15:11:46" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="User Service Unit Tests" timestamp="2022-04-27T15:11:46" tests="0" file="C:\Users\Akha Magaqana\Documents\Basebone Assessment\Basebone-Api\test.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Save User functionality" timestamp="2022-04-27T15:11:46" tests="1" file="C:\Users\Akha Magaqana\Documents\Basebone Assessment\Basebone-Api\test.js" time="0.0180" failures="0">
+    <testcase name="User Service Unit Tests Save User functionality Should be able to create a category" time="0.0160" classname="Should be able to create a category">
+    </testcase>
+  </testsuite>
+</testsuites>
